@@ -1,7 +1,5 @@
 #!/bin/bash
 IMPORT_PATH=../data/
-DB=tfk
-COLLECTION=politicians
 
 function fileExist {
   if [ -f $1 ]; then
