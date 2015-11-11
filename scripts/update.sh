@@ -1,5 +1,5 @@
 #!/bin/bash
-IMPORT_PATH=../data/politicians.json
+IMPORT_PATH=../data/
 DB=tfk
 COLLECTION=politicians
 
