@@ -5,7 +5,7 @@
 ###########################################################
 
 # Setting the base to mongodb 3.1.9
-FROM mongo:3.7.9@sha256:e6f5c2185eb64e0eb4c3d8ef8a903ad0fff0e2554b1bc03c8b1bb25103882102
+FROM mongo:3.7.9@sha256:a4fe8722970f7a10ec73820f1f43ae930724267c249a9ac12d42d3fdc2a17167
 
 # Maintainer
 MAINTAINER Geir Gåsodden
